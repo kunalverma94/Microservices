@@ -2,10 +2,6 @@
 *.*dll
 *.*exe
 *.*pdb
-/ab/bin/Debug/netcoreapp2.2
-/ab/obj
-/packages
-/API/obj
-/API/bin/Debug/netcoreapp3.1
-/xy/obj
-/xy/bin/Debug/netcoreapp2.2
+**/bin/
+**/obj
+**/packages
