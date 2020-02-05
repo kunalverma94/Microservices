@@ -5,3 +5,4 @@
 **/bin/
 **/obj
 **/packages
+/exp/node_modules
