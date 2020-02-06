@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  rbtrec:
+    image: ${DOCKER_REGISTRY-}rbtrec
+    build:
+      context: .
+      dockerfile: ConsoleApp1/Dockerfile

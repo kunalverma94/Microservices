@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "rbt send": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
