@@ -23,8 +23,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rbt send", "Mailer\rbtSend\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthGoogl", "Oauth\OAuthGoogl.csproj", "{399C3511-24BA-4AB2-9349-34F044A16497}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{6E02BCB2-350E-4F8F-91A0-09E26E5F5862}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,10 +57,6 @@ Global
 		{399C3511-24BA-4AB2-9349-34F044A16497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{399C3511-24BA-4AB2-9349-34F044A16497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{399C3511-24BA-4AB2-9349-34F044A16497}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6E02BCB2-350E-4F8F-91A0-09E26E5F5862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E02BCB2-350E-4F8F-91A0-09E26E5F5862}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E02BCB2-350E-4F8F-91A0-09E26E5F5862}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E02BCB2-350E-4F8F-91A0-09E26E5F5862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,7 +69,6 @@ Global
 		{7AFC4601-4FAE-4E30-A444-BC3764F702DB} = {23D04EA6-74C0-4B26-A8A2-5102F624A691}
 		{23A87BFA-CE92-4C31-97C6-FC3DE7457640} = {23D04EA6-74C0-4B26-A8A2-5102F624A691}
 		{399C3511-24BA-4AB2-9349-34F044A16497} = {BB800168-24A0-4FAD-8482-647CEF7402A7}
-		{6E02BCB2-350E-4F8F-91A0-09E26E5F5862} = {BB800168-24A0-4FAD-8482-647CEF7402A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6F604E1-30F8-4FEB-9EF1-96D7B32CC92D}
